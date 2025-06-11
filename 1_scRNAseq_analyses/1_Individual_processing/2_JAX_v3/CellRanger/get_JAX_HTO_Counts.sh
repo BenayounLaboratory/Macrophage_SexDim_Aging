@@ -1,0 +1,3 @@
+CITE-seq-Count -R1 ../FASTQ_Trim/perit_p_HTO_1_ATT_TRIMMED_L2_1.fastq.gz -R2 ../FASTQ_Trim/perit_p_HTO_1_ATT_TRIMMED_L2_2.fastq.gz -t tags_p1.csv -cbf 1 -cbl 16 -umif 17 -umil 26 -cells 14000 -o perit_p_HTO_1_HTO_parsed
+CITE-seq-Count -R1 ../FASTQ_Trim/perit_p_HTO_2_TCC_TRIMMED_L2_1.fastq.gz -R2 ../FASTQ_Trim/perit_p_HTO_2_TCC_TRIMMED_L2_2.fastq.gz -t tags_p2.csv -cbf 1 -cbl 16 -umif 17 -umil 26 -cells 14000 -o perit_p_HTO_2_HTO_parsed
+CITE-seq-Count -R1 ../FASTQ_Trim/perit_p_HTO_3_CGC_TRIMMED_L2_1.fastq.gz -R2 ../FASTQ_Trim/perit_p_HTO_3_CGC_TRIMMED_L2_2.fastq.gz -t tags_p3.csv -cbf 1 -cbl 16 -umif 17 -umil 26 -cells 14000 -o perit_p_HTO_3_HTO_parsed

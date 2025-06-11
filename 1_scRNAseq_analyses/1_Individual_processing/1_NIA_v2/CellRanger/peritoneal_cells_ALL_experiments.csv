@@ -1,0 +1,10 @@
+sample_id,molecule_h5
+4m_Female_perit_pool_1,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/4m_Female_perit_pool_1/outs/molecule_info.h5
+20m_Female_perit_pool_1,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/20m_Female_perit_pool_1/outs/molecule_info.h5
+4m_Male_perit_pool_1,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/4m_Male_perit_pool_1/outs/molecule_info.h5
+20m_Male_perit_pool_1,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/20m_Male_perit_pool_1/outs/molecule_info.h5
+4m_Female_perit_pool_2,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/4m_Female_perit_pool_2/outs/molecule_info.h5
+20m_Female_perit_pool_2,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/20m_Female_perit_pool_2/outs/molecule_info.h5
+4m_Male_perit_pool_2,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/4m_Male_perit_pool_2/outs/molecule_info.h5
+20m_Male_perit_pool_2,/home/benayoun/Projects/10xGenomics/2021-09-14_Peritoneal_reanalysis/20m_Male_perit_pool_2/outs/molecule_info.h5
+

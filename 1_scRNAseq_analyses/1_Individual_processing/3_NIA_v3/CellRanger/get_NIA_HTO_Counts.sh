@@ -1,0 +1,1 @@
+CITE-seq-Count -R1 ../FASTQ_HTO/perit_pool_1_HTO_CKDL230020266-1A_H755CDSX7_L3_1.fq.gz -R2 ../FASTQ_HTO/perit_pool_1_HTO_CKDL230020266-1A_H755CDSX7_L3_2.fq.gz -t tags_NIA_p1.csv -cbf 1 -cbl 16 -umif 17 -umil 26 -cells 30000 -o NIA_perit_p1_HTO_parsed
