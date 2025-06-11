@@ -1,0 +1,48 @@
+R version 4.3.1 (2023-06-16)
+Platform: x86_64-apple-darwin20 (64-bit)
+Running under: macOS Ventura 13.4.1
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/lib/libRlapack.dylib;  LAPACK version 3.11.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: America/Los_Angeles
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] scales_1.2.1                phenoTest_1.48.0            Hmisc_5.1-0                 ggplot2_3.4.2              
+ [5] BMA_3.18.17                 rrcov_1.7-4                 inline_0.3.19               robustbase_0.99-0          
+ [9] leaps_3.1                   survival_3.5-8              Heatplus_3.8.0              annotate_1.78.0            
+[13] XML_3.99-0.14               AnnotationDbi_1.62.2        bitops_1.0-7                Vennerable_3.1.0.9000      
+[17] DESeq2_1.40.2               SummarizedExperiment_1.30.2 Biobase_2.60.0              MatrixGenerics_1.12.3      
+[21] matrixStats_1.0.0           GenomicRanges_1.52.1        GenomeInfoDb_1.36.1         IRanges_2.34.1             
+[25] S4Vectors_0.38.1            BiocGenerics_0.46.0        
+
+loaded via a namespace (and not attached):
+  [1] hgu133a.db_3.13.0       RColorBrewer_1.1-3      rstudioapi_0.15.0       magrittr_2.0.3          farver_2.1.1           
+  [6] rmarkdown_2.23          zlibbioc_1.46.0         vctrs_0.6.3             memoise_2.0.1           RCurl_1.98-1.12        
+ [11] base64enc_0.1-3         htmltools_0.5.5         S4Arrays_1.2.0          progress_1.2.2          curl_5.0.1             
+ [16] Formula_1.2-5           KernSmooth_2.23-22      htmlwidgets_1.6.2       plyr_1.8.8              cachem_1.0.8           
+ [21] lifecycle_1.0.3         pkgconfig_2.0.3         Matrix_1.6-5            R6_2.5.1                fastmap_1.1.1          
+ [26] GenomeInfoDbData_1.2.10 digest_0.6.33           colorspace_2.1-0        ellipse_0.5.0           RSQLite_2.3.1          
+ [31] labeling_0.4.2          filelock_1.0.2          fansi_1.0.4             mgcv_1.9-1              httr_1.4.6             
+ [36] abind_1.4-5             compiler_4.3.3          bit64_4.0.5             withr_2.5.0             htmlTable_2.4.1        
+ [41] backports_1.4.1         BiocParallel_1.34.2     DBI_1.1.3               gplots_3.1.3            biomaRt_2.56.1         
+ [46] rappdirs_0.3.3          DelayedArray_0.26.7     gtools_3.9.4            caTools_1.18.2          Category_2.66.0        
+ [51] tools_4.3.3             foreign_0.8-86          nnet_7.3-19             glue_1.6.2              nlme_3.1-164           
+ [56] grid_4.3.3              checkmate_2.2.0         cluster_2.1.6           reshape2_1.4.4          generics_0.1.3         
+ [61] gtable_0.3.3            data.table_1.14.8       hms_1.1.3               xml2_1.3.5              utf8_1.2.3             
+ [66] XVector_0.40.0          pillar_1.9.0            stringr_1.5.0           limma_3.56.2            genefilter_1.82.1      
+ [71] splines_4.3.3           dplyr_1.1.2             BiocFileCache_2.8.0     lattice_0.22-5          bit_4.0.5              
+ [76] tidyselect_1.2.0        RBGL_1.76.0             locfit_1.5-9.8          Biostrings_2.68.1       knitr_1.43             
+ [81] gridExtra_2.3           xfun_0.39               DEoptimR_1.1-0          stringi_1.7.12          evaluate_0.21          
+ [86] codetools_0.2-19        tibble_3.2.1            graph_1.78.0            cli_3.6.1               rpart_4.1.23           
+ [91] xtable_1.8-4            munsell_0.5.0           Rcpp_1.0.11             dbplyr_2.3.3            png_0.1-8              
+ [96] parallel_4.3.3          hopach_2.60.0           blob_1.2.4              prettyunits_1.1.1       mvtnorm_1.2-2          
+[101] GSEABase_1.62.0         pcaPP_2.0-3             crayon_1.5.2            rlang_1.1.1             KEGGREST_1.40.0        

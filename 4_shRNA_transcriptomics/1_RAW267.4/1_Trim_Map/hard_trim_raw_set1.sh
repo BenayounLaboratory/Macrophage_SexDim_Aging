@@ -1,0 +1,36 @@
+## cut 9 based on fastqc
+
+gzcat ../FASTQ/Irf2cds1_1.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep1_RNAseq_1.fastq.gz      
+gzcat ../FASTQ/Irf2cds1_2.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep1_RNAseq_2.fastq.gz      
+gzcat ../FASTQ/Irf2cds2_1.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep2_RNAseq_1.fastq.gz      
+gzcat ../FASTQ/Irf2cds2_2.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep2_RNAseq_2.fastq.gz      
+gzcat ../FASTQ/Irf2cds3_1.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep3_RNAseq_1.fastq.gz      
+gzcat ../FASTQ/Irf2cds3_2.fq.gz           |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_cds_rep3_RNAseq_2.fastq.gz      
+gzcat ../FASTQ/Irf23utr1_1.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep1_RNAseq_1.fastq.gz     
+gzcat ../FASTQ/Irf23utr1_2.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep1_RNAseq_2.fastq.gz     
+gzcat ../FASTQ/Irf23utr2_1.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep2_RNAseq_1.fastq.gz     
+gzcat ../FASTQ/Irf23utr2_2.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep2_RNAseq_2.fastq.gz     
+gzcat ../FASTQ/Irf23utr3_1.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep3_RNAseq_1.fastq.gz     
+gzcat ../FASTQ/Irf23utr3_2.fq.gz          |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shIrf2_3utr_rep3_RNAseq_2.fastq.gz     
+gzcat ../FASTQ/Luc1_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep1_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Luc1_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep1_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Luc2_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep2_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Luc2_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep2_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Luc3_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep3_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Luc3_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shLuc_rep3_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Non1_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep1_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Non1_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep1_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Non2_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep2_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Non2_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep2_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Non3_1.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep3_RNAseq_1.fastq.gz          
+gzcat ../FASTQ/Non3_2.fq.gz               |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shNon_rep3_RNAseq_2.fastq.gz          
+gzcat ../FASTQ/Tbl1xr1cds1_1.fq.gz        |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_cds_rep1_RNAseq_1.fastq.gz   
+gzcat ../FASTQ/Tbl1xr1cds1_2.fq.gz        |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_cds_rep1_RNAseq_2.fastq.gz   
+gzcat ../FASTQ/Tbl1xr1cds3_1.fq.gz        |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_cds_rep3_RNAseq_1.fastq.gz   
+gzcat ../FASTQ/Tbl1xr1cds3_2.fq.gz        |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_cds_rep3_RNAseq_2.fastq.gz   
+gzcat ../FASTQ/Tbl1xr13UTR1_1.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep1_RNAseq_1.fastq.gz  
+gzcat ../FASTQ/Tbl1xr13UTR1_2.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep1_RNAseq_2.fastq.gz  
+gzcat ../FASTQ/Tbl1xr13UTR2_1.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep2_RNAseq_1.fastq.gz  
+gzcat ../FASTQ/Tbl1xr13UTR2_2.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep2_RNAseq_2.fastq.gz  
+gzcat ../FASTQ/Tbl1xr13UTR3_1.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep3_RNAseq_1.fastq.gz  
+gzcat ../FASTQ/Tbl1xr13UTR3_2.fq.gz       |  fastx_trimmer -f 9 -l 100 -z -Q33 -i - -o shTbl1xr1_3UTR_rep3_RNAseq_2.fastq.gz  

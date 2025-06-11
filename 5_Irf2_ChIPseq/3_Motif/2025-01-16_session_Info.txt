@@ -1,0 +1,21 @@
+R version 3.6.3 (2020-02-29)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: OS X  13.4.1
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] scales_1.1.1  ggplot2_3.3.5
+
+loaded via a namespace (and not attached):
+ [1] rstudioapi_0.13  magrittr_2.0.1   tidyselect_1.1.1 munsell_0.5.0    colorspace_2.0-2 R6_2.5.0         rlang_1.1.4      fansi_0.5.0      dplyr_1.0.8     
+[10] tools_3.6.3      grid_3.6.3       gtable_0.3.0     utf8_1.2.1       cli_3.6.3        DBI_1.1.1        withr_2.4.2      ellipsis_0.3.2   digest_0.6.27   
+[19] assertthat_0.2.1 tibble_3.1.2     lifecycle_1.0.4  crayon_1.4.1     farver_2.1.0     purrr_0.3.4      vctrs_0.6.5      glue_1.4.2       labeling_0.4.2  
+[28] compiler_3.6.3   pillar_1.6.1     generics_0.1.0   pkgconfig_2.0.3 
