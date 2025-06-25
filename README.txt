@@ -2,7 +2,7 @@
 
 Scripts for the manuscript:
 
-"Murine peritoneal macrophages undergo sex-specific remodeling with aging"
+"Aging murine peritoneal macrophages undergo female-specific remodeling driven by hormone-dependent and independent mechanisms"
 Ryan J. Lu, Shiqi Chen, Minhoo Kim, Nirmal K. Sampathkumar, Evelyn H. Lee, Amy Christensen,
 Eric E. Wang, Isabella Y. Lau, Shivay Parihar, Charan Ravikumar, Jane Jung, Shelby Brown, Alan Xu, 
 Julio L. Alvarenga, Kristen Mehalko, Changhan D. Lee, Helen S. Goodridge, & Bérénice A. Benayoun
