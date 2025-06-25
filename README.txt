@@ -7,7 +7,7 @@ Ryan J. Lu, Shiqi Chen, Minhoo Kim, Nirmal K. Sampathkumar, Evelyn H. Lee, Amy C
 Eric E. Wang, Isabella Y. Lau, Shivay Parihar, Charan Ravikumar, Jane Jung, Shelby Brown, Alan Xu, 
 Julio L. Alvarenga, Kristen Mehalko, Changhan D. Lee, Helen S. Goodridge, & Bérénice A. Benayoun
 
-(biorXiv preprint at: XXXX)
+(biorXiv preprint at: https://www.biorxiv.org/content/10.1101/2025.06.11.659200v1)
 
 This code is arranged into thematic subfolders by type of 'omic' analysis:
 	- 1_scRNAseq_analyses
