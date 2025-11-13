@@ -1,0 +1,19 @@
+NGmerge -a -1 ../FASTQ/PeriMac1_CKDL210020653-1a-N701_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac1_CKDL210020653-1a-N701_HKGJWDSX2_L3_2.fq.gz        -o YF_PeriMac1_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac2_CKDL210020653-1a-N702_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac2_CKDL210020653-1a-N702_HKGJWDSX2_L3_2.fq.gz        -o YM_PeriMac2_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac3_CKDL210020653-1a-N703_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac3_CKDL210020653-1a-N703_HKGJWDSX2_L3_2.fq.gz        -o OF_PeriMac3_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac4_CKDL210020653-1a-N704_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac4_CKDL210020653-1a-N704_HKGJWDSX2_L3_2.fq.gz        -o OM_PeriMac4_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac5_CKDL210020653-1a-N705_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac5_CKDL210020653-1a-N705_HKGJWDSX2_L3_2.fq.gz        -o OM_PeriMac5_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac6_CKDL210020653-1a-N706_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac6_CKDL210020653-1a-N706_HKGJWDSX2_L3_2.fq.gz        -o OF_PeriMac6_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac7_CKDL210020653-1a-N707_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac7_CKDL210020653-1a-N707_HKGJWDSX2_L3_2.fq.gz        -o YM_PeriMac7_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac8_CKDL210020653-1a-N708_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac8_CKDL210020653-1a-N708_HKGJWDSX2_L3_2.fq.gz        -o YF_PeriMac8_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac9_CKDL210020653-1a-N709_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac9_CKDL210020653-1a-N709_HKGJWDSX2_L3_2.fq.gz        -o YF_PeriMac9_AC43_ATACseq_NGmerge   -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac10_CKDL210020653-1a-N710_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac10_CKDL210020653-1a-N710_HKGJWDSX2_L3_2.fq.gz      -o YM_PeriMac10_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac11_CKDL210020653-1a-N711_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac11_CKDL210020653-1a-N711_HKGJWDSX2_L3_2.fq.gz      -o OF_PeriMac11_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac12_CKDL210020653-1a-N712_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac12_CKDL210020653-1a-N712_HKGJWDSX2_L3_2.fq.gz      -o OM_PeriMac12_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac13_CKDL210020653-1a-AK1971_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac13_CKDL210020653-1a-AK1971_HKGJWDSX2_L3_2.fq.gz  -o OM_PeriMac13_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac14_CKDL210020653-1a-A5_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac14_CKDL210020653-1a-A5_HKGJWDSX2_L3_2.fq.gz          -o OF_PeriMac14_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac15_CKDL210020653-1a-AK1972_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac15_CKDL210020653-1a-AK1972_HKGJWDSX2_L3_2.fq.gz  -o YM_PeriMac15_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac16_CKDL210020653-1a-AK1553_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac16_CKDL210020653-1a-AK1553_HKGJWDSX2_L3_2.fq.gz  -o YF_PeriMac16_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac17_CKDL210020653-1a-AK1554_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac17_CKDL210020653-1a-AK1554_HKGJWDSX2_L3_2.fq.gz  -o YF_PeriMac17_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+NGmerge -a -1 ../FASTQ/PeriMac18_CKDL210020653-1a-AK1566_HKGJWDSX2_L3_1.fq.gz -2 ../FASTQ/PeriMac18_CKDL210020653-1a-AK1566_HKGJWDSX2_L3_2.fq.gz  -o YM_PeriMac18_AC43_ATACseq_NGmerge  -v -z -n 2 -q 34
+    

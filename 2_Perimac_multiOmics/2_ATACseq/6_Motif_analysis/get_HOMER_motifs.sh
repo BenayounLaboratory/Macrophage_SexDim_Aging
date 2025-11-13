@@ -1,0 +1,6 @@
+# 2021-11-09
+
+findMotifsGenome.pl 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_FDR5_DWN_Female_ONLY_with_Age.bed mm10 2021-11-09_HOMER_MOTIF_ATAC_F_DWN_ONLY_FDR5 -size given -bg 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_Separated_Sex_Merged_Table_Background.bed 
+findMotifsGenome.pl 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_FDR5_UP_Male_ONLY_with_Age.bed    mm10 2021-11-09_HOMER_MOTIF_ATAC_M_UP_ONLY_FDR5  -size given -bg 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_Separated_Sex_Merged_Table_Background.bed 
+findMotifsGenome.pl 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_FDR5_UP_Female_ONLY_with_Age.bed  mm10 2021-11-09_HOMER_MOTIF_ATAC_F_UP_ONLY_FDR5  -size given -bg 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_Separated_Sex_Merged_Table_Background.bed 
+findMotifsGenome.pl 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_FDR5_DWN_Male_ONLY_with_Age.bed   mm10 2021-11-09_HOMER_MOTIF_ATAC_M_DWN_ONLY_FDR5 -size given -bg 2021-11-05_PeriMac_ATACseq_DESeq2_Analysis_AGING_Separated_Sex_Merged_Table_Background.bed 
