@@ -1,0 +1,20 @@
+R version 3.6.0 (2019-04-26)
+Platform: x86_64-apple-darwin15.6.0 (64-bit)
+Running under: OS X  14.5
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/3.6/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] bitops_1.0-6         OmicCircos_1.24.0    GenomicRanges_1.38.0 GenomeInfoDb_1.22.1 
+[5] IRanges_2.20.2       S4Vectors_0.24.4     BiocGenerics_0.32.0 
+
+loaded via a namespace (and not attached):
+[1] zlibbioc_1.32.0        compiler_3.6.0         XVector_0.26.0         tools_3.6.0           
+[5] GenomeInfoDbData_1.2.2 RCurl_1.98-1.2         rstudioapi_0.11       
