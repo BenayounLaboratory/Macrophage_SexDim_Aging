@@ -16,5 +16,6 @@ This code is arranged into thematic subfolders by type of 'omic' analysis:
 	- 2_Perimac_multiOmics     : see 2_README_bulk_multiomics.txt for more details;
 	- 3_PeriMac_Interventions  : see 3_README_intervention_transcriptomics.txt for more details;
 	- 4_shRNA_transcriptomics  : see 4_README_shRNA_transcriptomics.txt for more details;
-	- 5_Irf2_ChIPseq           : see 5_README_Irf2_ChIPseq.txt for more details;
+	- 5_Irf2_ChIPseq_CUTRUN    : see 5_README_Irf2_ChIPseq_CUTRUN.txt for more details;
          
+
